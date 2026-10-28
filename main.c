@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int main(void) {
+int main() {
     double x = 0.0;
     double q = 0.0;
 
