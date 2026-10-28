@@ -27,6 +27,10 @@ $$Q(X) =
 
 <img width="829" height="1142" alt="Блок-схема 1 drawio" src="https://github.com/user-attachments/assets/736fc79f-74d7-46ba-8745-9058c162fba8" />
 
+## Блок-схема с интервалом:
+
+<img width="829" height="942" alt="Блок-схема 2 drawio (1)" src="https://github.com/user-attachments/assets/8e2447df-02c2-48bb-a10a-b6b6b3a74341" />
+
 
 ## О разработчике
 
