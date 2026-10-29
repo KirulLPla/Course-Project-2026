@@ -37,6 +37,7 @@ $$Q(X) =
 <img width="829" height="1142" alt="Блок-схема оперативного контроля" src="https://github.com/user-attachments/assets/736fc79f-74d7-46ba-8745-9058c162fba8" />
 
 ## 2 Блок-схема алгоритма 
+Анализ массива/потока: Q[] → заданный интервал → STATISTICS
 
 <img width="829" height="942" alt="Блок-схема 2 drawio (1)" src="https://github.com/user-attachments/assets/8720eaba-76be-4316-aab9-ce8dfb6173ed" />
 
